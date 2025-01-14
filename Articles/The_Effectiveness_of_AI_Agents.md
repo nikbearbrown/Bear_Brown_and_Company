@@ -1,4 +1,4 @@
-**The Effectiveness and Usability of AI Agents**
+# The Effectiveness and Usability of AI Agents
 
 **Abstract**
 This systematic review explores the effectiveness and usability of AI agents across various domains, including healthcare, gaming, marketing, negotiation, and organizational applications. The survey integrates findings from multiple studies to assess the utility of AI agents in enhancing user satisfaction, operational efficiency, and task outcomes. It identifies both positive results and challenges such as inconsistent effectiveness, usability concerns, and ethical implications. This review underscores the need for further research in robust study designs, cost-effectiveness evaluations, and addressing privacy and security concerns.
