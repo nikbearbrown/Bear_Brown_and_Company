@@ -29,11 +29,11 @@ Our expert team provides specialized consulting in:
 
 ### Innovation Incubation
 As an incubator, we offer:
-- Co-working space and resources for AI startups
+- Mini-MBA (the essentials of everything Professor Brown learned from his Northeastern MBA/MS in Quantitative Finance)
+- Resources for AI startups
 - Technical infrastructure and development support
 - Business development assistance
-- Funding preparation and investor introductions
-- Legal and regulatory guidance
+- Legal and regulatory education
 
 ## Our Approach
 
